@@ -30,6 +30,7 @@ o	Safari<br>
 Project Scope 
 
 •	Game Time Scale<br>
+
 o	About a month or so
 
 •	Team Size<br>
@@ -74,3 +75,9 @@ o	Jade.wav<br>
 o	Ball_bounce.wav<br>
 
 Screenshots of the Game
+![image](https://s13.postimg.org/hu9gtbm1z/2017-05-29.png)
+![image](https://s13.postimg.org/mmeor0rc7/2017-05-29_(1).png)
+![image](https://s13.postimg.org/jgu30t8pz/2017-05-29_(2).png)
+![image](https://s13.postimg.org/ye75fkbc7/2017-05-29_(3).png)
+![image](https://s13.postimg.org/be0i38dif/2017-05-29_(4).png)
+![image](https://s13.postimg.org/kzu2jj4o7/2017-05-29_(5).png)
