@@ -1,0 +1,1104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8286d43f-15af-42ab-b821-72585f95a256" name="Default" comment="" />
+    <ignored path="CGFINAL.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="CGFINAL" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="GameCG.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/GameCG.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.24863014">
+              <caret line="118" column="4" selection-start-line="118" selection-start-column="4" selection-end-line="124" selection-end-column="0" />
+              <folding>
+                <element signature="e#26#653#0" expanded="true" />
+                <element signature="e#525#563#0" expanded="true" />
+                <element signature="e#740#1550#0" expanded="true" />
+                <element signature="e#1557#1597#0" expanded="true" />
+                <element signature="e#1995#2067#0" expanded="true" />
+                <element signature="e#2188#2292#0" expanded="true" />
+                <element signature="e#2432#2833#0" expanded="true" />
+                <element signature="e#2583#2634#0" expanded="true" />
+                <element signature="e#2969#3453#0" expanded="true" />
+                <element signature="e#3603#3915#0" expanded="true" />
+                <element signature="e#4503#4839#0" expanded="true" />
+                <element signature="e#4619#4827#0" expanded="true" />
+                <element signature="e#4749#4810#0" expanded="true" />
+                <element signature="e#4877#4911#0" expanded="true" />
+                <element signature="e#4935#6641#0" expanded="true" />
+                <element signature="e#5142#5486#0" expanded="true" />
+                <element signature="e#6027#6273#0" expanded="true" />
+                <element signature="e#6468#6504#0" expanded="true" />
+                <element signature="e#6671#8812#0" expanded="true" />
+                <element signature="e#7082#7160#0" expanded="true" />
+                <element signature="e#7899#8754#0" expanded="true" />
+                <element signature="e#8847#9864#0" expanded="true" />
+                <element signature="e#9897#10222#0" expanded="true" />
+                <element signature="e#10229#10282#0" expanded="true" />
+                <element signature="e#10305#10813#0" expanded="true" />
+                <element signature="e#10426#10803#0" expanded="true" />
+                <element signature="e#10636#10791#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ObstacleManager.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/ObstacleManager.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="61" column="65" selection-start-line="61" selection-start-column="65" selection-end-line="61" selection-end-column="65" />
+              <folding>
+                <element signature="e#37#144#0" expanded="true" />
+                <element signature="e#208#347#0" expanded="true" />
+                <element signature="e#397#697#0" expanded="true" />
+                <element signature="e#744#957#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Player.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/Player.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="28" column="34" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
+              <folding>
+                <element signature="e#222#285#0" expanded="true" />
+                <element signature="e#1521#1800#0" expanded="true" />
+                <element signature="e#1938#2165#0" expanded="true" />
+                <element signature="e#2204#2455#0" expanded="true" />
+                <element signature="e#2493#2719#0" expanded="true" />
+                <element signature="e#2722#2771#0" expanded="true" />
+                <element signature="e#2814#2876#0" expanded="true" />
+                <element signature="e#2915#3404#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Lanes.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/Lanes.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+              <folding>
+                <element signature="e#877#1340#0" expanded="true" />
+                <element signature="e#1390#1445#0" expanded="true" />
+                <element signature="e#1491#1774#0" expanded="true" />
+                <element signature="e#1537#1690#0" expanded="true" />
+                <element signature="e#1817#1912#0" expanded="true" />
+                <element signature="e#1952#2270#0" expanded="true" />
+                <element signature="e#2039#2197#0" expanded="true" />
+                <element signature="e#2308#2328#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GameObject.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/GameObject.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+              <folding>
+                <element signature="e#32#311#0" expanded="true" />
+                <element signature="e#452#528#0" expanded="true" />
+                <element signature="e#572#703#0" expanded="true" />
+                <element signature="e#652#699#0" expanded="true" />
+                <element signature="e#757#817#0" expanded="true" />
+                <element signature="e#820#892#0" expanded="true" />
+                <element signature="e#948#1578#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/scripts/home.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/js/GameObject.js" />
+        <option value="$PROJECT_DIR$/js/Gift.js" />
+        <option value="$PROJECT_DIR$/js/SapinouManager.js" />
+        <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/js/Game.js" />
+        <option value="$PROJECT_DIR$/js/scripts/home.js" />
+        <option value="$PROJECT_DIR$/js/ObstacleManager.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/assets/robot/robot.log" />
+        <option value="$PROJECT_DIR$/js/Player.js" />
+        <option value="$PROJECT_DIR$/js/GameCG.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-18" />
+    <option name="width" value="3214" />
+    <option name="height" value="1746" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CGFINAL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CGFINAL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CGFINAL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CGFINAL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CGFINAL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CGFINAL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CGFINAL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CGFINAL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CGFINAL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="libs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CGFINAL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CGFINAL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CGFINAL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CGFINAL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\CGFINAL\assets" />
+      <recent name="C:\xampp\htdocs\CGFINAL\assets\snowman" />
+      <recent name="C:\xampp\htdocs\CGFINAL\assets\bot" />
+      <recent name="C:\xampp\htdocs\CGFINAL\assets\robot" />
+      <recent name="C:\xampp\htdocs\CGFINAL\js\libs" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8286d43f-15af-42ab-b821-72585f95a256" name="Default" comment="" />
+      <created>1464537912412</created>
+      <option name="number" value="Default" />
+      <updated>1464537912412</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-18" y="0" width="3214" height="1746" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24984287" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32987687" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/js/Lanes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+          <folding>
+            <element signature="e#877#1340#0" expanded="true" />
+            <element signature="e#1390#1445#0" expanded="true" />
+            <element signature="e#1491#1774#0" expanded="true" />
+            <element signature="e#1537#1690#0" expanded="true" />
+            <element signature="e#1817#1912#0" expanded="true" />
+            <element signature="e#1952#2270#0" expanded="true" />
+            <element signature="e#2039#2197#0" expanded="true" />
+            <element signature="e#2308#2328#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/GameObject.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding>
+            <element signature="e#32#311#0" expanded="true" />
+            <element signature="e#452#528#0" expanded="true" />
+            <element signature="e#572#703#0" expanded="true" />
+            <element signature="e#652#699#0" expanded="true" />
+            <element signature="e#757#817#0" expanded="true" />
+            <element signature="e#820#892#0" expanded="true" />
+            <element signature="e#948#1578#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/scripts/home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/Player.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="32" column="47" selection-start-line="32" selection-start-column="47" selection-end-line="32" selection-end-column="47" />
+          <folding>
+            <element signature="e#222#285#0" expanded="true" />
+            <element signature="e#1521#1800#0" expanded="true" />
+            <element signature="e#1938#2165#0" expanded="true" />
+            <element signature="e#2204#2455#0" expanded="true" />
+            <element signature="e#2493#2719#0" expanded="true" />
+            <element signature="e#2722#2771#0" expanded="true" />
+            <element signature="e#2814#2876#0" expanded="true" />
+            <element signature="e#2915#3404#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/Lanes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+          <folding>
+            <element signature="e#877#1340#0" expanded="true" />
+            <element signature="e#1390#1445#0" expanded="true" />
+            <element signature="e#1491#1774#0" expanded="true" />
+            <element signature="e#1537#1690#0" expanded="true" />
+            <element signature="e#1817#1912#0" expanded="true" />
+            <element signature="e#1952#2270#0" expanded="true" />
+            <element signature="e#2039#2197#0" expanded="true" />
+            <element signature="e#2308#2328#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/GameObject.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding>
+            <element signature="e#32#311#0" expanded="true" />
+            <element signature="e#452#528#0" expanded="true" />
+            <element signature="e#572#703#0" expanded="true" />
+            <element signature="e#652#699#0" expanded="true" />
+            <element signature="e#757#817#0" expanded="true" />
+            <element signature="e#820#892#0" expanded="true" />
+            <element signature="e#948#1578#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/scripts/home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/scripts/home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="31" selection-start-line="3" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/GameCG.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#26#653#0" expanded="true" />
+            <element signature="e#525#563#0" expanded="true" />
+            <element signature="e#740#1550#0" expanded="true" />
+            <element signature="e#1557#1597#0" expanded="true" />
+            <element signature="e#1995#2067#0" expanded="true" />
+            <element signature="e#2188#2292#0" expanded="true" />
+            <element signature="e#2432#2833#0" expanded="true" />
+            <element signature="e#2583#2634#0" expanded="true" />
+            <element signature="e#2969#3453#0" expanded="true" />
+            <element signature="e#3603#3915#0" expanded="true" />
+            <element signature="e#4503#4839#0" expanded="true" />
+            <element signature="e#4619#4827#0" expanded="true" />
+            <element signature="e#4749#4810#0" expanded="true" />
+            <element signature="e#4877#4911#0" expanded="true" />
+            <element signature="e#4935#6641#0" expanded="true" />
+            <element signature="e#5142#5486#0" expanded="true" />
+            <element signature="e#6027#6273#0" expanded="true" />
+            <element signature="e#6468#6504#0" expanded="true" />
+            <element signature="e#6671#8812#0" expanded="true" />
+            <element signature="e#7082#7160#0" expanded="true" />
+            <element signature="e#7899#8754#0" expanded="true" />
+            <element signature="e#8847#9864#0" expanded="true" />
+            <element signature="e#9897#10222#0" expanded="true" />
+            <element signature="e#10229#10282#0" expanded="true" />
+            <element signature="e#10305#10813#0" expanded="true" />
+            <element signature="e#10426#10803#0" expanded="true" />
+            <element signature="e#10636#10791#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/ObstacleManager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="35" column="46" selection-start-line="35" selection-start-column="46" selection-end-line="35" selection-end-column="46" />
+          <folding>
+            <element signature="e#37#144#0" expanded="true" />
+            <element signature="e#208#347#0" expanded="true" />
+            <element signature="e#397#697#0" expanded="true" />
+            <element signature="e#744#957#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/Player.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+          <folding>
+            <element signature="e#222#285#0" expanded="true" />
+            <element signature="e#1521#1800#0" expanded="true" />
+            <element signature="e#1938#2165#0" expanded="true" />
+            <element signature="e#2204#2455#0" expanded="true" />
+            <element signature="e#2493#2719#0" expanded="true" />
+            <element signature="e#2722#2771#0" expanded="true" />
+            <element signature="e#2814#2876#0" expanded="true" />
+            <element signature="e#2915#3404#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/Lanes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+          <folding>
+            <element signature="e#877#1340#0" expanded="true" />
+            <element signature="e#1390#1445#0" expanded="true" />
+            <element signature="e#1491#1774#0" expanded="true" />
+            <element signature="e#1537#1690#0" expanded="true" />
+            <element signature="e#1817#1912#0" expanded="true" />
+            <element signature="e#1952#2270#0" expanded="true" />
+            <element signature="e#2039#2197#0" expanded="true" />
+            <element signature="e#2308#2328#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/GameObject.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding>
+            <element signature="e#32#311#0" expanded="true" />
+            <element signature="e#452#528#0" expanded="true" />
+            <element signature="e#572#703#0" expanded="true" />
+            <element signature="e#652#699#0" expanded="true" />
+            <element signature="e#757#817#0" expanded="true" />
+            <element signature="e#820#892#0" expanded="true" />
+            <element signature="e#948#1578#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/scripts/home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="31" selection-start-line="3" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/GameCG.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#26#653#0" expanded="true" />
+            <element signature="e#525#563#0" expanded="true" />
+            <element signature="e#740#1550#0" expanded="true" />
+            <element signature="e#1557#1597#0" expanded="true" />
+            <element signature="e#1995#2067#0" expanded="true" />
+            <element signature="e#2188#2292#0" expanded="true" />
+            <element signature="e#2432#2833#0" expanded="true" />
+            <element signature="e#2583#2634#0" expanded="true" />
+            <element signature="e#2969#3453#0" expanded="true" />
+            <element signature="e#3603#3915#0" expanded="true" />
+            <element signature="e#4503#4839#0" expanded="true" />
+            <element signature="e#4619#4827#0" expanded="true" />
+            <element signature="e#4749#4810#0" expanded="true" />
+            <element signature="e#4877#4911#0" expanded="true" />
+            <element signature="e#4935#6641#0" expanded="true" />
+            <element signature="e#5142#5486#0" expanded="true" />
+            <element signature="e#6027#6273#0" expanded="true" />
+            <element signature="e#6468#6504#0" expanded="true" />
+            <element signature="e#6671#8812#0" expanded="true" />
+            <element signature="e#7082#7160#0" expanded="true" />
+            <element signature="e#7899#8754#0" expanded="true" />
+            <element signature="e#8847#9864#0" expanded="true" />
+            <element signature="e#9897#10222#0" expanded="true" />
+            <element signature="e#10229#10282#0" expanded="true" />
+            <element signature="e#10305#10813#0" expanded="true" />
+            <element signature="e#10426#10803#0" expanded="true" />
+            <element signature="e#10636#10791#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/ObstacleManager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+          <folding>
+            <element signature="e#37#144#0" expanded="true" />
+            <element signature="e#208#347#0" expanded="true" />
+            <element signature="e#397#697#0" expanded="true" />
+            <element signature="e#744#957#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/Player.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+          <folding>
+            <element signature="e#222#285#0" expanded="true" />
+            <element signature="e#1521#1800#0" expanded="true" />
+            <element signature="e#1938#2165#0" expanded="true" />
+            <element signature="e#2204#2455#0" expanded="true" />
+            <element signature="e#2493#2719#0" expanded="true" />
+            <element signature="e#2722#2771#0" expanded="true" />
+            <element signature="e#2814#2876#0" expanded="true" />
+            <element signature="e#2915#3404#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/Lanes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+          <folding>
+            <element signature="e#877#1340#0" expanded="true" />
+            <element signature="e#1390#1445#0" expanded="true" />
+            <element signature="e#1491#1774#0" expanded="true" />
+            <element signature="e#1537#1690#0" expanded="true" />
+            <element signature="e#1817#1912#0" expanded="true" />
+            <element signature="e#1952#2270#0" expanded="true" />
+            <element signature="e#2039#2197#0" expanded="true" />
+            <element signature="e#2308#2328#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/GameObject.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding>
+            <element signature="e#32#311#0" expanded="true" />
+            <element signature="e#452#528#0" expanded="true" />
+            <element signature="e#572#703#0" expanded="true" />
+            <element signature="e#652#699#0" expanded="true" />
+            <element signature="e#757#817#0" expanded="true" />
+            <element signature="e#820#892#0" expanded="true" />
+            <element signature="e#948#1578#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/scripts/home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="31" selection-start-line="3" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/GameCG.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="390" column="5" selection-start-line="390" selection-start-column="5" selection-end-line="390" selection-end-column="5" />
+          <folding>
+            <element signature="e#26#653#0" expanded="true" />
+            <element signature="e#525#563#0" expanded="true" />
+            <element signature="e#740#1550#0" expanded="true" />
+            <element signature="e#1557#1597#0" expanded="true" />
+            <element signature="e#1995#2067#0" expanded="true" />
+            <element signature="e#2188#2292#0" expanded="true" />
+            <element signature="e#2432#2833#0" expanded="true" />
+            <element signature="e#2583#2634#0" expanded="true" />
+            <element signature="e#2969#3453#0" expanded="true" />
+            <element signature="e#3603#3915#0" expanded="true" />
+            <element signature="e#4503#4839#0" expanded="true" />
+            <element signature="e#4619#4827#0" expanded="true" />
+            <element signature="e#4749#4810#0" expanded="true" />
+            <element signature="e#4877#4911#0" expanded="true" />
+            <element signature="e#4935#6641#0" expanded="true" />
+            <element signature="e#5142#5486#0" expanded="true" />
+            <element signature="e#6027#6273#0" expanded="true" />
+            <element signature="e#6468#6504#0" expanded="true" />
+            <element signature="e#6671#8812#0" expanded="true" />
+            <element signature="e#7082#7160#0" expanded="true" />
+            <element signature="e#7899#8754#0" expanded="true" />
+            <element signature="e#8847#9864#0" expanded="true" />
+            <element signature="e#9897#10222#0" expanded="true" />
+            <element signature="e#10229#10282#0" expanded="true" />
+            <element signature="e#10305#10813#0" expanded="true" />
+            <element signature="e#10426#10803#0" expanded="true" />
+            <element signature="e#10636#10791#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/ObstacleManager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="61" column="39" selection-start-line="61" selection-start-column="39" selection-end-line="61" selection-end-column="39" />
+          <folding>
+            <element signature="e#37#144#0" expanded="true" />
+            <element signature="e#208#347#0" expanded="true" />
+            <element signature="e#397#697#0" expanded="true" />
+            <element signature="e#744#957#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="170" column="34" selection-start-line="170" selection-start-column="34" selection-end-line="170" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/bg_picture.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/GameObject.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#32#311#0" expanded="true" />
+            <element signature="e#452#528#0" expanded="true" />
+            <element signature="e#572#703#0" expanded="true" />
+            <element signature="e#652#699#0" expanded="true" />
+            <element signature="e#757#817#0" expanded="true" />
+            <element signature="e#820#892#0" expanded="true" />
+            <element signature="e#948#1578#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/scripts/home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/GameCG.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="390" column="5" selection-start-line="390" selection-start-column="5" selection-end-line="390" selection-end-column="5" />
+          <folding>
+            <element signature="e#26#653#0" expanded="true" />
+            <element signature="e#525#563#0" expanded="true" />
+            <element signature="e#740#1550#0" expanded="true" />
+            <element signature="e#1557#1597#0" expanded="true" />
+            <element signature="e#1995#2067#0" expanded="true" />
+            <element signature="e#2188#2292#0" expanded="true" />
+            <element signature="e#2432#2833#0" expanded="true" />
+            <element signature="e#2583#2634#0" expanded="true" />
+            <element signature="e#2969#3453#0" expanded="true" />
+            <element signature="e#3603#3915#0" expanded="true" />
+            <element signature="e#4503#4839#0" expanded="true" />
+            <element signature="e#4619#4827#0" expanded="true" />
+            <element signature="e#4749#4810#0" expanded="true" />
+            <element signature="e#4877#4911#0" expanded="true" />
+            <element signature="e#4935#6641#0" expanded="true" />
+            <element signature="e#5142#5486#0" expanded="true" />
+            <element signature="e#6027#6273#0" expanded="true" />
+            <element signature="e#6468#6504#0" expanded="true" />
+            <element signature="e#6671#8812#0" expanded="true" />
+            <element signature="e#7082#7160#0" expanded="true" />
+            <element signature="e#7899#8754#0" expanded="true" />
+            <element signature="e#8847#9864#0" expanded="true" />
+            <element signature="e#9897#10222#0" expanded="true" />
+            <element signature="e#10229#10282#0" expanded="true" />
+            <element signature="e#10305#10813#0" expanded="true" />
+            <element signature="e#10426#10803#0" expanded="true" />
+            <element signature="e#10636#10791#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/ObstacleManager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="61" column="39" selection-start-line="61" selection-start-column="39" selection-end-line="61" selection-end-column="39" />
+          <folding>
+            <element signature="e#37#144#0" expanded="true" />
+            <element signature="e#208#347#0" expanded="true" />
+            <element signature="e#397#697#0" expanded="true" />
+            <element signature="e#744#957#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/GameObject.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+          <folding>
+            <element signature="e#32#311#0" expanded="true" />
+            <element signature="e#452#528#0" expanded="true" />
+            <element signature="e#572#703#0" expanded="true" />
+            <element signature="e#652#699#0" expanded="true" />
+            <element signature="e#757#817#0" expanded="true" />
+            <element signature="e#820#892#0" expanded="true" />
+            <element signature="e#948#1578#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/scripts/home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/ground.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/libs/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/snow_bg1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/snow_bg2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/ground.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/water/bump.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/grass2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/bg_picture.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/snow.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.40560374">
+          <caret line="133" column="6" selection-start-line="133" selection-start-column="6" selection-end-line="133" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/Lanes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+          <folding>
+            <element signature="e#877#1340#0" expanded="true" />
+            <element signature="e#1390#1445#0" expanded="true" />
+            <element signature="e#1491#1774#0" expanded="true" />
+            <element signature="e#1537#1690#0" expanded="true" />
+            <element signature="e#1817#1912#0" expanded="true" />
+            <element signature="e#1952#2270#0" expanded="true" />
+            <element signature="e#2039#2197#0" expanded="true" />
+            <element signature="e#2308#2328#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/GameObject.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding>
+            <element signature="e#32#311#0" expanded="true" />
+            <element signature="e#452#528#0" expanded="true" />
+            <element signature="e#572#703#0" expanded="true" />
+            <element signature="e#652#699#0" expanded="true" />
+            <element signature="e#757#817#0" expanded="true" />
+            <element signature="e#820#892#0" expanded="true" />
+            <element signature="e#948#1578#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/scripts/home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/bot/bot.babylon">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/Player.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="34" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
+          <folding>
+            <element signature="e#222#285#0" expanded="true" />
+            <element signature="e#1521#1800#0" expanded="true" />
+            <element signature="e#1938#2165#0" expanded="true" />
+            <element signature="e#2204#2455#0" expanded="true" />
+            <element signature="e#2493#2719#0" expanded="true" />
+            <element signature="e#2722#2771#0" expanded="true" />
+            <element signature="e#2814#2876#0" expanded="true" />
+            <element signature="e#2915#3404#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/ObstacleManager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="61" column="65" selection-start-line="61" selection-start-column="65" selection-end-line="61" selection-end-column="65" />
+          <folding>
+            <element signature="e#37#144#0" expanded="true" />
+            <element signature="e#208#347#0" expanded="true" />
+            <element signature="e#397#697#0" expanded="true" />
+            <element signature="e#744#957#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/GameCG.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24863014">
+          <caret line="118" column="4" selection-start-line="118" selection-start-column="4" selection-end-line="124" selection-end-column="0" />
+          <folding>
+            <element signature="e#26#653#0" expanded="true" />
+            <element signature="e#525#563#0" expanded="true" />
+            <element signature="e#740#1550#0" expanded="true" />
+            <element signature="e#1557#1597#0" expanded="true" />
+            <element signature="e#1995#2067#0" expanded="true" />
+            <element signature="e#2188#2292#0" expanded="true" />
+            <element signature="e#2432#2833#0" expanded="true" />
+            <element signature="e#2583#2634#0" expanded="true" />
+            <element signature="e#2969#3453#0" expanded="true" />
+            <element signature="e#3603#3915#0" expanded="true" />
+            <element signature="e#4503#4839#0" expanded="true" />
+            <element signature="e#4619#4827#0" expanded="true" />
+            <element signature="e#4749#4810#0" expanded="true" />
+            <element signature="e#4877#4911#0" expanded="true" />
+            <element signature="e#4935#6641#0" expanded="true" />
+            <element signature="e#5142#5486#0" expanded="true" />
+            <element signature="e#6027#6273#0" expanded="true" />
+            <element signature="e#6468#6504#0" expanded="true" />
+            <element signature="e#6671#8812#0" expanded="true" />
+            <element signature="e#7082#7160#0" expanded="true" />
+            <element signature="e#7899#8754#0" expanded="true" />
+            <element signature="e#8847#9864#0" expanded="true" />
+            <element signature="e#9897#10222#0" expanded="true" />
+            <element signature="e#10229#10282#0" expanded="true" />
+            <element signature="e#10305#10813#0" expanded="true" />
+            <element signature="e#10426#10803#0" expanded="true" />
+            <element signature="e#10636#10791#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
